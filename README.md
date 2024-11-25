@@ -9,7 +9,7 @@ User Types:
 Renters: Explore available hotels and properties, book your next stay, and leave reviews.
 Hotel Owners: List properties with detailed information, manage bookings, and respond to reviews.
 Travelers: Browse destinations, get personalized recommendations, and explore the best travel options based on your preferences.
-Personalized Recommendations: Powered by machine learning, WanderLust suggests the best hotels and destinations for you based on your interests and past travels.
+
 
 
 
@@ -41,18 +41,10 @@ bash
 Copy code
 npm install
 Set up environment variables:
-Create a .env file in the root directory and add the following:
+Create a .env file in the root directory and add .
 
-bash
-Copy code
-MONGO_URI=your_mongodb_connection_string
-GOOGLE_CLIENT_ID=your_google_client_id
-FACEBOOK_APP_ID=your_facebook_app_id
-Start the server:
 
-bash
-Copy code
-npm start
+
 The app should now be running on http://localhost:8080.
 
 📱 Usage

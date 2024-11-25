@@ -60,13 +60,12 @@ Browse Hotels & Destinations:
 Use the search bar to find the best places to stay or explore new locations.
 
 Sign Up / Log In:
-Use your Google or Facebook account to sign up or log in for a personalized experience.
+ sign up or log in for a personalized experience.
 
 Book Your Stay:
 Find your ideal hotel and book it instantly. Leave reviews after your stay to help others.
 
-Get Personalized Recommendations:
-The platform will suggest travel destinations based on your preferences and past bookings.
+
 
 🔧 Development
 If you’d like to contribute to the development of WanderLust, follow these steps:

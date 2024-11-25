@@ -53,7 +53,7 @@ Start the server:
 bash
 Copy code
 npm start
-The app should now be running on http://localhost:3000.
+The app should now be running on http://localhost:8080.
 
 📱 Usage
 Browse Hotels & Destinations:
